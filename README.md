@@ -1,0 +1,1 @@
+This project will aim to create a configurable game server, trying to increase the tick rate as high as possible whilst maintaining low resource usage. This project is an opportunity to increase my knowledge of concurrency as well as a challenge that may or may not be successful.
